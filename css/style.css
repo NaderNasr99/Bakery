@@ -298,6 +298,12 @@ margin-bottom: 80px;}
    opacity:1;
    visibility: visible;
 }
+.layer-text{
+   transition-delay: .5s;
+}
+.category{
+   transition-delay: .4s;
+}
 .works-items-center:hover .works-layer{
    opacity:1;
    visibility: visible;
@@ -322,6 +328,7 @@ margin-bottom: 80px;}
    height:40px;
    background-color: rgb(214, 136, 57);
    color:black;
+    transition-delay: .6s;
 }
 .works-items-center a{
    font-size: 25px;
@@ -330,6 +337,7 @@ margin-bottom: 80px;}
    height:40px;
    background-color: rgb(214, 136, 57);
    color:black;
+    transition-delay: .6s;
 }
 
 
